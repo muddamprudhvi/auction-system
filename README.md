@@ -1,4 +1,4 @@
 # auction-system
-The sellers set up auctions for their products while the purchaser
-who bids the highest amount wins the right to purchase the product in an auction. Only registered
-users are allowed to use the system.
+The third agent is
+the Facilitator Agent that plays the role of an auctioneer and enables a bidder to look at the other
+person’s auction history while bidding for and buying a product.
